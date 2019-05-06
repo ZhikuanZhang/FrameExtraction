@@ -6,4 +6,4 @@ Extract the particular frames in a video by three methods.<br>
 <br>
 The result will be saved in the files: method1, method2, method3.<br>
 The video should be put in the data file.<br>
-You can also change the file path settings in config.py.
+You     can also change the file path settings in config.py.
